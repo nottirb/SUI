@@ -1,0 +1,22 @@
+{
+	"name": "SUI Test Runner",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Packages": {
+				"$path": "Packages",
+				"SUI": {
+					"$path": "src"
+				}
+			}
+		},
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"$path": "test/StarterPlayerScripts"
+			}
+		}
+	}
+}

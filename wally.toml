@@ -1,0 +1,17 @@
+[package]
+# Package info
+name = "nottirb/sui"
+description = "A component UI library, built specifically for Roblox and Fusion"
+license = "MIT"
+authors = ["Nottirb"]
+version = "0.0.1-beta"
+
+# Registry info
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+# Includes
+include = ["src", "src/**", "default.project.json", "LICENSE"]
+
+[dependencies]
+Fusion = "nottirb/fusion-test@0.1.2-beta"
